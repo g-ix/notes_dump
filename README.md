@@ -14,7 +14,8 @@ This repo is only for my notes related to various fields (including but not limi
 6) Networking
 7) Philosophy
 8) Psychology
-9) Artificial Intelligence
+9) Artificial Intelligence ( AI )
 10) Neural networks
+11) Spirituality
 
-Credits: Garry Bamrah
+Credits: Garry Bamrah + chatgpt
