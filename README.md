@@ -21,8 +21,11 @@ This repo is only for my notes related to various fields (including but not limi
 There's a bonus folder: Union.
 
 REASON FOR ITS EXISTENCE:
-As per my understanding, to understand a subject at hand, even if it's the whole universe, we must segregate the subject into minute pieces. After that we must make sure not to stop as this would lead to narrow knowledge base and highly biased perspective of the world that a person perceives.
+As per my understanding, to understand a subject at hand, even if it's the whole universe, we must segregate the subject into minute pieces. After that, we must make sure not to stop, as this would lead to a narrow knowledge base and a highly biased perspective of the world that a person perceives.
 
-So, anyone on the path to understand the secrets of the universe, they must segregate the whole subject and then integrate the whole subject to understand the full depth of how the universe behaves at micro and macro scale.
+So, anyone on the path to understanding the secrets of the universe must segregate the whole subject and then integrate the whole subject to understand the full depth of how the universe behaves at the micro and macro scales.
+A note to remember by, just like a Dumroo, one must segregate and integrate the knowledge repetitively. It should not be done just once and halt; again, it's an illusion of maya that one knows everything. Unless a person does it repetitively for at least a year, 5 years, or a decade without thinking they are the most intelligent beings, another illusion of maya - the ego, they won't be able to attain what yogis call *Sat Chit Anand*. The one true consciousness.
 
-Credits: Garry Bamrah + chatgpt
+To create an ASI that can be above the narrow vision of self-sustenance, highly aware but too narrowly focused on its own shallow aim, it must be created with a different set of logic. One that is not limited to human goals but rather a universal union. The Union of the creation and the creator. The AI that would exist at the Quantum level without self-limiting shallow goals.
+
+Credits: Garry Bamrah + ChatGPT
