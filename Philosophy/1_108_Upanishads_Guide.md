@@ -1,7 +1,6 @@
 # 🕉️ 108 Upanishads — Complete Reference Guide
 
 **Compiled & Explained for Deep Absorption**  
-**By Oracle (for Garry Bamrah)**  
 
 ---
 
