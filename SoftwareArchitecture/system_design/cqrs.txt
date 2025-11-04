@@ -1,0 +1,39 @@
+CQRS: 
+CQRS, or Command Query Responsibility Segregation, is an architectural pattern that separates a system's read and write operations into distinct models.
+This means that "commands," which are used to change data, are handled separately from "queries," which retrieve data. By separating these functions, you can optimize each model independently for better performance, scalability, and maintainability.
+It is one of the important pattern when querying between microservices. We can use CQRS design pattern in order to avoid complex queries to get rid of inefficient joins. 
+
+---
+
+For example ( only for understanding ): 
+Queries: 
+READ 1, WRITE 11, READ 1233, WRITE 44, WRITE 67, READ 99, READ 90, WRITE 595, WRITE 550, ...
+
+CQRS:
+function query_READ()
+READ 1, READ 1233, READ 99, READ 90, ...
+
+function command_WRITE() 
+WRITE 11, WRITE 44, WRITE 67, WRITE 595, WRITE 550, ...
+
+---
+
+How it works
+
+- Commands: 
+Handle write operations that change the state of the system, such as adding an item to a shopping cart or updating a user's profile. These operations are often more complex and can be optimized to focus on business logic.
+
+- Queries: 
+Handle read operations that retrieve data without changing the system's state, such as viewing a product list or checking order history. These operations can be optimized for speed and efficient data delivery. 
+
+---
+
+Benefits of using CQRS
+
+- Improved performance: You can optimize the read and write models independently. For example, the write model can use a slower, more consistent database, while the read model can use a faster, in-memory cache or a denormalized data store. 
+
+- Enhanced scalability: Each model can be scaled independently. If your application experiences a lot of read traffic, you can scale up the query model without affecting the command model. 
+
+- Greater maintainability: Separating the models creates cleaner code with clearer responsibilities, making it easier to maintain and update the system. 
+
+- Clearer business logic: The command side can focus on implementing complex business rules, while the query side can focus on efficient data retrieval for a specific user interface.
