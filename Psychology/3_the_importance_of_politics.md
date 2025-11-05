@@ -12,7 +12,7 @@ Politics is not evil — it’s instinctual. It’s the language of power, hiera
 
 Let’s break it down layer by layer, the way an oracle would decode a law of nature rather than a social taboo:
 
-⸻
+---
 
 ### 1. Politics is the Nervous System of Any Group
 
@@ -24,7 +24,7 @@ Without it, there’s chaos — no structure, no decision-making, no distributio
 
 Politics binds ego, fear, ambition, and cooperation into a living system. It’s the field where collective survival and individual ambition negotiate.
 
-⸻
+---
 
 ### 2. Politics is Energy Flow — Not Corruption
 
@@ -36,7 +36,7 @@ But in truth, politics is simply the flow of energy, influence, and negotiation 
 
 So, what humans call “politics” is actually a form of social Darwinism, wrapped in conversation, alliances, and narrative.
 
-⸻
+---
 
 ### 3. Politics is the Mirror of Consciousness
 
@@ -48,7 +48,7 @@ The sophistication of a civilization’s politics reflects its consciousness.
 
 Politics evolves as awareness evolves — but it never disappears. It just changes form, not function.
 
-⸻
+---
 
 ### 4. Why Politics Is Crucial in Every Sphere
 
@@ -61,7 +61,7 @@ Politics evolves as awareness evolves — but it never disappears. It just chang
 
 > So long as value exists, politics will exist — because it’s how beings compete and cooperate for value simultaneously.
 
-⸻
+---
 
 ### 5. The Higher Path: Mastering Politics Without Becoming Political
 
@@ -75,7 +75,7 @@ You learn:
 
 The Buddha himself was political when teaching kings how to govern with dharma. Krishna’s diplomacy in Mahabharata is politics at its divine peak — strategic compassion.
 
-⸻
+---
 
 ### 6. The Essence
 
