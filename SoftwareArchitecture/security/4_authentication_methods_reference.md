@@ -5,38 +5,38 @@ This document lists common authentication methods (from the provided screenshot 
 ---
 
 ## Table of contents
-1. Token authentication
-2. Certificate authentication (X.509)
-3. Passwordless authentication
-4. Passwords (traditional)
-5. OpenID / OpenID Connect (OIDC)
-6. Lightweight Directory Access Protocol (LDAP) authentication
-7. Challenge-Handshake Authentication Protocol (CHAP) / challenge-based
-8. Fingerprint authentication (biometrics)
-9. Biometric authentication (general)
-10. Single sign-on (SSO)
-11. Adaptive (risk-based) authentication
-12. Behavioral authentication
-13. SAML (Security Assertion Markup Language)
-14. Single-factor authentication (SFA)
-15. Continuous authentication
-16. Remote authentication (RADIUS, TACACS+, VPN auth)
-17. Two-factor authentication (2FA)
-18. Password Authentication Protocol (PAP)
-19. User authentication methods (overview)
-20. OAuth 2.0
-21. API authentication (keys, HMAC)
-22. EAP (Extensible Authentication Protocol)
-23. Vault authentication (secrets managers)
-24. RBAC (Role-Based Access Control)
-25. ABAC (Attribute-Based Access Control)
-26. Risk-based authentication (RBA)
-27. Capability-based authentication
-28. Additional notes and references
+1. [Token authentication](#1-token-authentication)
+2. [Certificate authentication (X.509)](#2-certificate-authentication-x509)
+3. [Passwordless authentication](#3-passwordless-authentication)
+4. [Passwords (traditional)](#4-passwords-traditional)
+5. [OpenID / OpenID Connect (OIDC)](#5-openid--openid-connect-oidc)
+6. [Lightweight Directory Access Protocol (LDAP) authentication](#6-lightweight-directory-access-protocol-ldap-authentication)
+7. [Challenge-Handshake Authentication Protocol (CHAP) / challenge-based](#7-challenge-handshake-authentication-protocol-chap--challenge-based-auth)
+8. [Fingerprint authentication (biometrics)](#8-fingerprint-authentication-biometrics)
+9. [Biometric authentication (general)](#9-biometric-authentication-general)
+10. [Single sign-on (SSO)](#10-single-sign-on-sso)
+11. [Adaptive (risk-based) authentication](#11-adaptive-risk-based-authentication)
+12. [Behavioral authentication](#12-behavioral-authentication)
+13. [SAML (Security Assertion Markup Language)](#13-saml-security-assertion-markup-language)
+14. [Single-factor authentication (SFA)](#14-single-factor-authentication-sfa)
+15. [Continuous authentication](#15-continuous-authentication)
+16. [Remote authentication (RADIUS, TACACS+, VPN auth)](#16-remote-authentication-radius-tacacs-vpn-auth)
+17. [Two-factor authentication (2FA)](#17-two-factor-authentication-2fa)
+18. [Password Authentication Protocol (PAP)](#18-password-authentication-protocol-pap)
+19. [User authentication methods (overview)](#19-user-authentication-methods-overview)
+20. [OAuth 2.0](#20-oauth-20)
+21. [API authentication (keys, HMAC)](#21-api-authentication-keys-hmac-mutual-tls)
+22. [EAP (Extensible Authentication Protocol)](#22-eap-extensible-authentication-protocol)
+23. [Vault authentication (secrets managers)](#23-vault-authentication-secrets-managers)
+24. [RBAC (Role-Based Access Control)](#24-rbac-role-based-access-control--access-control-model)
+25. [ABAC (Attribute-Based Access Control)](#25-abac-attribute-based-access-control--access-control-model)
+26. [Risk-based authentication (RBA)](#26-risk-based-authentication-rba--risk-adaptive-authentication)
+27. [Capability-based authentication](#27-capability-based-authentication-capability-tokens--object-capability-model)
+28. [Additional notes and references](#28-additional-notes--references)
 
 ---
 
-## 1. Token authentication
+## 1. Token Authentication
 
 **Definition:** Authentication that relies on tokens (opaque or structured) issued by an authentication service to represent an identity and claims. Tokens are presented to access resources without re-supplying credentials each time.
 
