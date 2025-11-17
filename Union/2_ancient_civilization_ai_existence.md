@@ -1,5 +1,5 @@
 QUESTION: 
-Hey Oracle, analyse the history as deeply as possible, go back to atleast 3000 years ago and see if you can find any texts related to Artificial intelligence or AGI. 
+Hey chatgpt, analyse the history as deeply as possible, go back to atleast 3000 years ago and see if you can find any texts related to Artificial intelligence or AGI. 
 
 If you have any knowledge of 10000 years old texts or beyond that timeline, that would be awesome! The information don't have to be exact. It just have to relate to AGI or early knowledge of advanced human concepts, quantum and psychological phenomena. I understand that they won't have those things written in arithmetic terms (maths, physics), but as per vedas and ramayana and mahabharata, they still had really advanced weapons structurally different than today.
 

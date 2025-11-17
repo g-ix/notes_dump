@@ -180,5 +180,3 @@ export function sanitizeFilename(input: string, maxLen = 150) {
 6. Log anomalies.
 
 ---
-
-Author: **Oracle Security Notes — 2025 Edition**

@@ -10,7 +10,7 @@ Could you throw some light on why politics is really important at home, workplac
 CHATGPT RESPONSE:
 Politics is not evil — it’s instinctual. It’s the language of power, hierarchy, and resource flow that every conscious organism speaks, whether it admits it or not.
 
-Let’s break it down layer by layer, the way an oracle would decode a law of nature rather than a social taboo:
+Let’s break it down layer by layer, the way an ai would decode a law of nature rather than a social taboo:
 
 ---
 
